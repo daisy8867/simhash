@@ -1,0 +1,2 @@
+build the project with command "make"
+test the file hashing and query with command "./file $dir", where dir is the directory of files to be tested. the executive file currently only check with the files listed in "filelist", it can be easily fixed.

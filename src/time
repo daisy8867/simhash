@@ -1,0 +1,9 @@
+time for reading 5442 files and compute the hash code, query and insertion
+real    0m10.265s
+user    0m3.701s
+sys     0m0.279s
+
+time for only reading 5442 files and compute the hash code
+real    0m8.239s
+user    0m1.971s
+sys     0m0.260s
