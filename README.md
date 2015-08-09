@@ -1,3 +1,5 @@
+An incremental test with Simhash, the project is originally in https://github.com/seomoz/simhash-cpp
+
 Simhash Near-Duplicate Detection
 ================================
 [![Build Status](https://travis-ci.org/seomoz/simhash-cpp.svg?branch=master)](https://travis-ci.org/seomoz/simhash-cpp)
